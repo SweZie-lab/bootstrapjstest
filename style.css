@@ -1,0 +1,51 @@
+* {
+    text-decoration: none;
+    font-size: 12;
+  }
+
+.navdiv {
+    background-color:black;
+    height: 7rem;
+}
+
+.js-logo {
+    max-width: 16rem;
+    margin: 2rem;
+    object-fit: cover;
+   
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav-right {
+    margin: 2.5rem;
+    float: right;
+}
+
+
+
+.topnav-right a {
+    color: white;
+    margin: 1.5rem;
+    text-decoration: none;
+    font-size-adjust: 0.58;
+}
+
+.tr-js {
+    
+    background-color: #f21170;
+    width: 10rem;
+    height: 10rem;
+}
+
+.button {
+    margin-right: 2rem;
+    color: white;
+    background-color: #f21170;
+    width: 12rem;
+    height: 3rem;
+    border-radius: 0.3rem;
+}
